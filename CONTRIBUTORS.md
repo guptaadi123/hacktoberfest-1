@@ -2426,4 +2426,8 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/guptaadi123)
+#### Name: [aditya vikram gupta](https://github.com/itepifanio)
+- Place:india
+- Bio:  Python and Ml developer
+- Github: [Ítalo Epifânio](https://github.com/guptaadi123)
